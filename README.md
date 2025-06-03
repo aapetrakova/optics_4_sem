@@ -140,8 +140,3 @@ pdflatex report.tex
 Разработчики: [@aapetrakova](https://github.com/aapetrakova), [@d3v000](https://github.com/d3v000)
 Репозиторий: [git@github.com\:aapetrakova/optics\_4\_sem.git](git@github.com:aapetrakova/optics_4_sem.git)
 
----
-
-
-Если хочешь, могу сгенерировать `.pdf`-версию этого `README` или сделать `requirements.txt` и скрипт `setup.py` для альтернативной установки.
-```
