@@ -135,5 +135,6 @@ pdflatex report.tex
 ## ℹ️ Контакты
 
 Разработчики: [@aapetrakova](https://github.com/aapetrakova), [@d3v000](https://github.com/d3v000)
+
 Репозиторий: [git@github.com\:aapetrakova/optics\_4\_sem.git](git@github.com:aapetrakova/optics_4_sem.git)
 
